@@ -32,7 +32,7 @@ p {
 }
 
 section {
-  padding: 60px 0;
+  padding: 30px 0;
   position: relative;
 }
 
@@ -181,7 +181,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 */
 .intro-section {
   padding-top: 150px;
-  color: #fff;
+  color: #00ffff;
 }
 
 .intro-section .logo, .intro-section p {
@@ -210,19 +210,19 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 
 /*#about.container.row.col-lg-6.skill-item div {width: 40px;}*/
-.about-section .row {width: 300px;}
+/*.about-section .row {width: 2000px;}*/
 
-.about-section .skill-item {
-  margin-bottom: 20px;
+/*.about-section .skill-item {*/
+  /*margin-bottom: 20px;*/
 }
 
-.about-section .progress-title {
-  font-weight: 400;
+/*.about-section .progress-title {
+  font-weight: 400;*/
   /*text-transform: uppercase;*/
-  letter-spacing: 0.1em;
+  /*letter-spacing: 0.1em;*/
 }
 
-.about-section .progress {
+/*.about-section .progress {
   height: 30px;
   border-radius: 0;
   width: 200px;
@@ -246,7 +246,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 
 .about-section .progress .progress-bar-skill4 {
   background: #1a88ff;
-}
+}*/
 
 /*
 *
@@ -546,8 +546,8 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
   width: 50px;
   height: 50px;
   margin-bottom: 20px;
-  font-size: 3rem;
-  opacity: 0.3;
+  font-size: 4rem;
+  opacity: 0.7;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
